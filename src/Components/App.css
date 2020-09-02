@@ -295,6 +295,10 @@ body {
     height: 218px;
   }
 
+  .share-profile {
+    font-size:1rem;
+  }
+
 }
 
 .nav-icon {
