@@ -291,6 +291,9 @@ body {
   .navigation {
     width: 100%; 
 }
+  .profile-section {
+    height: 218px;
+  }
 
 }
 
