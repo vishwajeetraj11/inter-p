@@ -6,10 +6,10 @@ import WorkSubSection from "./WorkSubSection";
 import SubSection from "./SubSection";
 import AppProfile from "./AppProfile"
 import AppHeader from "./AppHeader";
-import Jobs from "./Jobs";
+
 import Refer from "./Refer";
 import Navigation from "./Navigation";
-import {BrowserRouter as Router, Route, Switch } from "react-router-dom";
+
 
 function App(props) {
   console.log(props);
